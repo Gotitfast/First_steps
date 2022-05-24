@@ -1,0 +1,57 @@
+-Разработка чек-листов, тест-кейсов;
+-Создание и сопровождение отчетов об ошибках в Jira;
+-Опыт работы с Jira, GitLab, PostgreSQL, Postman;
+-Тестирование REST API;
+-Понимание HTTP;
+-Базовые знания SQL для выполнения простейших запросов к базам данных (SELECT, UPDATE, INSERT).
+
+-специфику оптовых и розничных продаж товаров;
+-B2B   SaaS
+
+-Back: Java, Spring, SpringBoot, PostgreSQL, MongoDB, Flyway
+-Front: ReactJS, Typescript, Apollo-client, Styled-Components
+-AutomationQA: API - Java/TestNG; UI - JavaScript/CodeceptJS, Java/Selenium
+-Environment: Docker, Kubernetes, Helm.
+
+
+-Django 2.2, DRF, PostgreSQL.
+
+
+-тестирование API (REST API, WebSocket)
+-SPA
+-опыт проведения функционального, регрессионного, нагрузочного и др. видов тестирования
+-опыт тестирования API (Postman или аналогичные)
+-уверенное владение инструментами тестировщика (плагины, devtools, Charly)
+-чтение и анализ логов (Kibana)
+-Python/GO
+-опыт нагрузочного тестирования (JMeter)
+опыт работы с PostgreSQL
+опыт работы с Docker
+
+
+-Python и стандарта PEP-8;
+-ООП на Python;
+-pandas, NumPy, matplotlib;
+-Git;
+-PyQt (и другие gui-фреймворки), Django (либо другие web-API), unittet, pytest;
+-TDD и DDD;
+-Docker, Html, CSS, JavaScript;
+
+
+-javascript,typescript,html / css, может получить элемент по сложному селектору,nodejs,npm,Jest,puppeteer / selenuim,http,rest,postman,git,json.
+
+-Git JavaScript CSS HTML TypeScript;
+
+-HTML/HTML5, CSS/CSS3, JavaScript;
+-Знание React.js, LESS, Sass, Webpack;
+
+-Знания в HTML, CSS (включая SCSS, SASS);
+-Опыт frontend разработки на JavaScript и TypeScript;
+-Опыт разработки на Vue.js 2 vue2-vue3, Axios, vuex (php, wordpress);
+-JavaScript Git Sass Webpack Vue;
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+// привязать имя "Gotitfast"
+git config --global user.name "Gotitfast"
+
+// привязать мыло "Gotitfast"
+git config --global user.email "Gotitfast@yandex.ru"
+
+// перейти в папку с проектом
+dir - все папки/файлы в директории (проверка)
+cd - перейти в нужную дирректорию
+
+//cd .git - в папке .git содержиться инфа по системе контроля версий
